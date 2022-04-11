@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2IDNLXcvkSWs0oO6VkMMhGAvoPjQApJ8k0REkNpddcROyEevMPvF+A+PR8nhGU6fi7sGXZGS04vy54MyM5iQmA==",
+  "dgSpecHash": "L1aQW9YkA5GV19W+0F40GdPcOLKh6NvjVvzrF+Dif9UD9XNAPPWpitM3pINkpIfS5flRGvpNcuVy+IgPibf+Ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sinan.ozcan\\source\\repos\\ShopRUsWebAPI\\ShopRUsWebAPITest\\ShopRUsWebAPITest.csproj",
+  "projectFilePath": "C:\\Users\\sinan.ozcan\\Desktop\\ShoRUsWebAPIProject\\ShopRUsWebAPI\\ShopRUsWebAPITest\\ShopRUsWebAPITest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sinan.ozcan\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\sinan.ozcan\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",

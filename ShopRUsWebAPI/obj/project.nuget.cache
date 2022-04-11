@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mGB4SGA2s16lIXhL9cBb2cBfUhT2dMFhROnkjV1aAUbFbLZSLKCVSAnJ0ueLpC63Oq54jSfwIX33xyTRZ3iYDQ==",
+  "dgSpecHash": "s88w1Pn2+9fO/4dSiiInqnFTqqEhGwhTHqVu+5cOm7mm+DudbeT7bLbv6lxmJMs1ILcoGeLVMXmXT201lCMa4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sinan.ozcan\\source\\repos\\ShopRUsWebAPI\\ShopRUsWebAPI\\ShopRUsWebAPI.csproj",
+  "projectFilePath": "C:\\Users\\sinan.ozcan\\Desktop\\ShoRUsWebAPIProject\\ShopRUsWebAPI\\ShopRUsWebAPI\\ShopRUsWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sinan.ozcan\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\sinan.ozcan\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.4.0\\fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",

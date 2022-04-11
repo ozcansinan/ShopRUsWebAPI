@@ -6018,11 +6018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sinan.ozcan\\source\\repos\\ShopRUsWebAPI\\ShopRUsWebAPITest\\ShopRUsWebAPITest.csproj",
+      "projectUniqueName": "C:\\Users\\sinan.ozcan\\Desktop\\ShoRUsWebAPIProject\\ShopRUsWebAPI\\ShopRUsWebAPITest\\ShopRUsWebAPITest.csproj",
       "projectName": "ShopRUsWebAPITest",
-      "projectPath": "C:\\Users\\sinan.ozcan\\source\\repos\\ShopRUsWebAPI\\ShopRUsWebAPITest\\ShopRUsWebAPITest.csproj",
+      "projectPath": "C:\\Users\\sinan.ozcan\\Desktop\\ShoRUsWebAPIProject\\ShopRUsWebAPI\\ShopRUsWebAPITest\\ShopRUsWebAPITest.csproj",
       "packagesPath": "C:\\Users\\sinan.ozcan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sinan.ozcan\\source\\repos\\ShopRUsWebAPI\\ShopRUsWebAPITest\\obj\\",
+      "outputPath": "C:\\Users\\sinan.ozcan\\Desktop\\ShoRUsWebAPIProject\\ShopRUsWebAPI\\ShopRUsWebAPITest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6046,8 +6046,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\sinan.ozcan\\source\\repos\\ShopRUsWebAPI\\ShopRUsWebAPI\\ShopRUsWebAPI.csproj": {
-              "projectPath": "C:\\Users\\sinan.ozcan\\source\\repos\\ShopRUsWebAPI\\ShopRUsWebAPI\\ShopRUsWebAPI.csproj"
+            "C:\\Users\\sinan.ozcan\\Desktop\\ShoRUsWebAPIProject\\ShopRUsWebAPI\\ShopRUsWebAPI\\ShopRUsWebAPI.csproj": {
+              "projectPath": "C:\\Users\\sinan.ozcan\\Desktop\\ShoRUsWebAPIProject\\ShopRUsWebAPI\\ShopRUsWebAPI\\ShopRUsWebAPI.csproj"
             }
           }
         }
